@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Egg Timer</string>
+    <string name="egg_type">Chose your egg type</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+    <string name="soft">2000</string>
+    <string name="medium">390000</string>
+    <string name="hard">570000</string>
+
+</resources>

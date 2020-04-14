@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#595959</color>
+    <color name="colorPrimaryDark">#222222</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="sunsetOrange">#f64747</color>
+    <color name="shamrock">#2ecc71</color>
+</resources>
