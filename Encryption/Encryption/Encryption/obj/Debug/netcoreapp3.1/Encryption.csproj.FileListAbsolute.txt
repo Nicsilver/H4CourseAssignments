@@ -1,0 +1,13 @@
+D:\Programming\FullVersionControl\MainCourses\H4Course\Encryption\Encryption\Encryption\bin\Debug\netcoreapp3.1\Encryption.exe
+D:\Programming\FullVersionControl\MainCourses\H4Course\Encryption\Encryption\Encryption\bin\Debug\netcoreapp3.1\Encryption.deps.json
+D:\Programming\FullVersionControl\MainCourses\H4Course\Encryption\Encryption\Encryption\bin\Debug\netcoreapp3.1\Encryption.runtimeconfig.json
+D:\Programming\FullVersionControl\MainCourses\H4Course\Encryption\Encryption\Encryption\bin\Debug\netcoreapp3.1\Encryption.runtimeconfig.dev.json
+D:\Programming\FullVersionControl\MainCourses\H4Course\Encryption\Encryption\Encryption\bin\Debug\netcoreapp3.1\Encryption.dll
+D:\Programming\FullVersionControl\MainCourses\H4Course\Encryption\Encryption\Encryption\bin\Debug\netcoreapp3.1\Encryption.pdb
+D:\Programming\FullVersionControl\MainCourses\H4Course\Encryption\Encryption\Encryption\obj\Debug\netcoreapp3.1\Encryption.csprojAssemblyReference.cache
+D:\Programming\FullVersionControl\MainCourses\H4Course\Encryption\Encryption\Encryption\obj\Debug\netcoreapp3.1\Encryption.csproj.CoreCompileInputs.cache
+D:\Programming\FullVersionControl\MainCourses\H4Course\Encryption\Encryption\Encryption\obj\Debug\netcoreapp3.1\Encryption.AssemblyInfoInputs.cache
+D:\Programming\FullVersionControl\MainCourses\H4Course\Encryption\Encryption\Encryption\obj\Debug\netcoreapp3.1\Encryption.AssemblyInfo.cs
+D:\Programming\FullVersionControl\MainCourses\H4Course\Encryption\Encryption\Encryption\obj\Debug\netcoreapp3.1\Encryption.dll
+D:\Programming\FullVersionControl\MainCourses\H4Course\Encryption\Encryption\Encryption\obj\Debug\netcoreapp3.1\Encryption.pdb
+D:\Programming\FullVersionControl\MainCourses\H4Course\Encryption\Encryption\Encryption\obj\Debug\netcoreapp3.1\Encryption.genruntimeconfig.cache

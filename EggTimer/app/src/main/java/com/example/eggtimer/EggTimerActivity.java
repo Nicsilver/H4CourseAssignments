@@ -80,6 +80,7 @@ public class EggTimerActivity extends AppCompatActivity implements IEggTimerCont
     
     @Override
     public void onClick(View v)
+    
     {
         switch (v.getId())
         {

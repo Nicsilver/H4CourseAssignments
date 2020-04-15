@@ -15,7 +15,8 @@ abstract class SuperTimer implements ITimer, IObservable
     }
     
     @Override
-    public void startTimer()
+    public void
+    startTimer()
     {
     
     }
