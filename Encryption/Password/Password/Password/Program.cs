@@ -9,20 +9,17 @@ namespace Password
     //MADE WITH TEXT FILES TO BEGIN WITH WILL BE CHANGED TO SQL LATER
     class Program
     {
-        
+
 
         private static int iterations;
         private static Hash hash;
 
         private static int salt;
         private static byte[] bytearray;
-        
+
         static void Main(string[] args)
         {
-            if (File.Exists("login.txt"))
-            {
-                File.Delete("login.txt");
-            }
+
 
             iterations = 1000;
             hash = new Hash();
@@ -37,9 +34,12 @@ namespace Password
                 {
                     case ConsoleKey.D1:
                         Console.WriteLine("Write password");
+                        if (File.Exists("login.txt"))
+                        {
+                            File.Delete("login.txt");
+                        }
                         password = Encoding.ASCII.GetBytes(Console.ReadLine());
                         createLogin(password);
-
                         break;
                     case ConsoleKey.D2:
                         Console.WriteLine("Write password");
@@ -47,7 +47,6 @@ namespace Password
                         verifyLogin(password);
                         break;
                     default:
-
                         break;
                 }
             }
@@ -55,26 +54,17 @@ namespace Password
 
         static void createLogin(byte[] password)
         {
-            Console.WriteLine(Convert.ToBase64String(password));
+            Console.WriteLine(Encoding.UTF8.GetString(password, 0, password.Length)); // this comes out as whatever u write in.
+            //Console.WriteLine(Convert.ToBase64String(password)); // this comes out as a weird 
             byte[] salt = hash.GenerateSalt();
             byte[] hashedPassword = hash.hashPasswordWithSaltSha256(password, salt, iterations);
             Console.WriteLine("Salt" + Convert.ToBase64String(salt));
 
             using (StreamWriter writetext = new StreamWriter("login.txt"))
             {
-                Console.WriteLine(Convert.ToBase64String(hashedPassword) + " : " + Convert.ToBase64String(salt));
-                writetext.WriteLine(Convert.ToBase64String(hashedPassword));
-                writetext.WriteLine(Convert.ToBase64String(salt));
+                Console.WriteLine("HashedPassword: " + Convert.ToBase64String(hashedPassword) + " --- " + "Salt: "+ Convert.ToBase64String(salt));
             }
-            using (StreamReader streamReader = new StreamReader("login.txt"))
-            {
-                string hashedTest = streamReader.ReadLine();
-                string saltTest = streamReader.ReadLine();
-
-                Console.WriteLine(hashedTest.ToString() + " : " + saltTest.ToString());
-
-            }
-        } 
+        }
 
         static void verifyLogin(byte[] password)
         {
