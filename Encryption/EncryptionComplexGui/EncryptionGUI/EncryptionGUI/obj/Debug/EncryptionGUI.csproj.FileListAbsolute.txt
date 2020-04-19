@@ -1,0 +1,15 @@
+D:\Programming\FullVersionControl\MainCourses\H4Course\Security\EncryptionComplexGui\EncryptionGUI\EncryptionGUI\obj\Debug\EncryptionGUI.csprojAssemblyReference.cache
+D:\Programming\FullVersionControl\MainCourses\H4Course\Security\EncryptionComplexGui\EncryptionGUI\EncryptionGUI\obj\Debug\MainWindow.g.cs
+D:\Programming\FullVersionControl\MainCourses\H4Course\Security\EncryptionComplexGui\EncryptionGUI\EncryptionGUI\obj\Debug\App.g.cs
+D:\Programming\FullVersionControl\MainCourses\H4Course\Security\EncryptionComplexGui\EncryptionGUI\EncryptionGUI\obj\Debug\EncryptionGUI_MarkupCompile.cache
+D:\Programming\FullVersionControl\MainCourses\H4Course\Security\EncryptionComplexGui\EncryptionGUI\EncryptionGUI\obj\Debug\EncryptionGUI_MarkupCompile.lref
+D:\Programming\FullVersionControl\MainCourses\H4Course\Security\EncryptionComplexGui\EncryptionGUI\EncryptionGUI\bin\Debug\EncryptionGUI.exe.config
+D:\Programming\FullVersionControl\MainCourses\H4Course\Security\EncryptionComplexGui\EncryptionGUI\EncryptionGUI\bin\Debug\EncryptionGUI.exe
+D:\Programming\FullVersionControl\MainCourses\H4Course\Security\EncryptionComplexGui\EncryptionGUI\EncryptionGUI\bin\Debug\EncryptionGUI.pdb
+D:\Programming\FullVersionControl\MainCourses\H4Course\Security\EncryptionComplexGui\EncryptionGUI\EncryptionGUI\obj\Debug\MainWindow.baml
+D:\Programming\FullVersionControl\MainCourses\H4Course\Security\EncryptionComplexGui\EncryptionGUI\EncryptionGUI\obj\Debug\EncryptionGUI.g.resources
+D:\Programming\FullVersionControl\MainCourses\H4Course\Security\EncryptionComplexGui\EncryptionGUI\EncryptionGUI\obj\Debug\EncryptionGUI.Properties.Resources.resources
+D:\Programming\FullVersionControl\MainCourses\H4Course\Security\EncryptionComplexGui\EncryptionGUI\EncryptionGUI\obj\Debug\EncryptionGUI.csproj.GenerateResource.cache
+D:\Programming\FullVersionControl\MainCourses\H4Course\Security\EncryptionComplexGui\EncryptionGUI\EncryptionGUI\obj\Debug\EncryptionGUI.csproj.CoreCompileInputs.cache
+D:\Programming\FullVersionControl\MainCourses\H4Course\Security\EncryptionComplexGui\EncryptionGUI\EncryptionGUI\obj\Debug\EncryptionGUI.exe
+D:\Programming\FullVersionControl\MainCourses\H4Course\Security\EncryptionComplexGui\EncryptionGUI\EncryptionGUI\obj\Debug\EncryptionGUI.pdb

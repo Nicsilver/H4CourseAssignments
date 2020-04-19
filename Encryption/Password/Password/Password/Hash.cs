@@ -14,7 +14,7 @@ namespace Password
             {
                 byte[] salt = new byte[hashByteSize];
                 RNGCryptoServiceProvider.GetBytes(salt);
-
+                
                 return salt;
             }
         }
